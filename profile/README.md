@@ -49,9 +49,9 @@ Nous utilisons des outils modernes et performants pour développer vos projets w
 💼 **Delavigne Digital**  
 📍 France  
 
-✉️ [contact@delavignedigital.com](mailto:contact@delavignedigital.com)
+✉️ [contact@delavignedigital.com](mailto:contact@delavigne-digital.fr)
 
-🌐 [delavigne-digital.com](https://delavignedigital.com)
+🌐 [delavigne-digital.fr](https://delavigne-digital.fr)
 
 ---
 
